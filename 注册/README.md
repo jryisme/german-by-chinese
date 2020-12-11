@@ -3,28 +3,28 @@
 
 ## 正文
 
-A: In welchem Studienfach sind Sie zugelassen worden?
+A: In welchem Studienfach sind Sie zugelassen worden?<br/>
 A:您被哪个专业录取了？
 
-B: Zugelassen bin ich im Fach Psychologie⑴. Hier ist mein Zulassungsbescheid⑵. Wissen Sie,wann die Immatrikulation stattfindet?
+B: Zugelassen bin ich im Fach Psychologie⑴. Hier ist mein Zulassungsbescheid⑵. Wissen Sie,wann die Immatrikulation stattfindet?<br/>
 B:心理学专业。这是我的录取通知书。什么时候注册，您知道吗？
 
-A: Die Einschreibung findet immer zu Beginn des Semesters statt.
+A: Die Einschreibung findet immer zu Beginn des Semesters statt.<br/>
 A:学期初注册。
 
-B: In welchem Büro der Uni soll ich mich immatrikulieren lassen ?
+B: In welchem Büro der Uni soll ich mich immatrikulieren lassen ?<br/>
 B:我该在哪个办公室办理注册手续呢？
 
-A: Das Referat für Studienangelegenheiten ist dafür zuständig.
+A: Das Referat für Studienangelegenheiten ist dafür zuständig.<br/>
 A:在学生科注册。
 
-B: Was soll ich bei der Immatrikulation beachten?
+B: Was soll ich bei der Immatrikulation beachten?<br/>
 B:注册时要注意什么？
 
-A: Vor allem die Termine⑶ und die Bescheinigungen⑷! Achten Sie auf den Termin im Zulassungsbescheid⑸ ! Wenn die Fristen nicht eingehalten werden, kann der Studienplatz verloren gehen. Zur Immatrikulation sollen Sie den Zulassungsbescheid, den Zulasungsantrag und zwei Passbilder⑹ mitbringen !
+A: Vor allem die Termine⑶ und die Bescheinigungen⑷! Achten Sie auf den Termin im Zulassungsbescheid⑸ ! Wenn die Fristen nicht eingehalten werden, kann der Studienplatz verloren gehen. Zur Immatrikulation sollen Sie den Zulassungsbescheid, den Zulasungsantrag und zwei Passbilder⑹ mitbringen !<br/>
 A: 首先是注册日期和各种证明。您一定要注意录取通知上的注册日期。逾期不注册，可能失去入学资格。注册时您要带上录取通知书，入学申请以及两张护照相片。
 
-B: Sonst noch was ?
+B: Sonst noch was ?<br/>
 B: 还有别的吗？
 
 A: Auch andere Bescheinigungen ,die im Zulassungsbescheid gefordert sind ,dürfen Sie nicht vergessen,zB, Ihre Aufnahme in eine Krankenversicherung.<br/>
